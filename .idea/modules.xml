@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-orientacao-a-objetos/1-orientacao-a-objetos.iml" filepath="$PROJECT_DIR$/1-orientacao-a-objetos/1-orientacao-a-objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-heranca-polimorfismo-e-interface/2-heranca-polimorfismo-e-interface.iml" filepath="$PROJECT_DIR$/2-heranca-polimorfismo-e-interface/2-heranca-polimorfismo-e-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-pacotes-e-composicao/3-pacotes-e-composicao.iml" filepath="$PROJECT_DIR$/3-pacotes-e-composicao/3-pacotes-e-composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-bytebank.iml" filepath="$PROJECT_DIR$/kotlin-bytebank.iml" />
     </modules>
   </component>
